@@ -6,15 +6,23 @@ class About extends Component {
     if (!this.props.data) return null;
 
     const name = this.props.data.name;
-    const profilepic = "images/" + this.props.data.image;
+    const profilepic = "../assets/images/" + this.props.data.image;
     const bio = this.props.data.bio;
-    const street = this.props.data.address.street;
     const city = this.props.data.address.city;
     const state = this.props.data.address.state;
     const zip = this.props.data.address.zip;
-    const phone = this.props.data.phone;
     const email = this.props.data.email;
     const resumeDownload = this.props.data.resumedownload;
+
+    const networks = this.props.data.social.map(function (network) {
+      return (
+        <li key={network.name}>
+          <a href={network.url}>
+            <i className={network.className}></i>
+          </a>
+        </li>
+      );
+    });
 
     return (
       <section id="about">
@@ -38,16 +46,17 @@ class About extends Component {
                     <span>{name}</span>
                     <br />
                     <span>
-                      {street}
-                      <br />
                       {city} {state}, {zip}
                     </span>
-                    <br />
-                    <span>{phone}</span>
                     <br />
                     <span>{email}</span>
                   </p>
                 </div>
+
+                <div className="columns">
+                  <ul className="columns social-links">{networks}</ul>
+                </div>
+                
                 <div className="columns download">
                   <p>
                     <a href={resumeDownload} className="button">

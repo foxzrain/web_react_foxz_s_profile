@@ -210,6 +210,10 @@
    }
    #about .main-col { padding-right: 30px; }
 
+   /* social links */
+   #about .social-links { font-size: 22px; }
+   #about .social-links li { margin-left: 18px; }
+
 
    /* Resume Section
    --------------------------------------------------------------------- */
@@ -349,6 +353,11 @@
    /* header social links */
    header .social { font-size: 20px;}
    header .social li { margin: 0 6px; }
+
+   /* About Section
+   -------------------------------------------------------------------- */
+   #about .social-links { font-size: 20px; }
+   #about .social-links li { margin-left: 14px; } 
 
    /* footer
    ------------------------------------------------------------------------ */
