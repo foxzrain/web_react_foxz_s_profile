@@ -63,34 +63,44 @@
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
     ],
+    "languages":[
+      {
+        "name":"English",
+        "level":"475"
+      },
+      {
+        "name":"Chinese",
+        "level":"3"
+      }
+    ],
     "skills":[
       {
         "name":"Python",
-        "level":"60%"
+        "level":"3"
       },
       {
         "name":"VueJs",
-        "level":"55%"
+        "level":"2"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"2"
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "level":"4"
       },
       {
         "name":"PHP",
-        "level":"80%"
+        "level":"4"
       },
       {
         "name":"Swift",
-        "level":"50%"
+        "level":"2"
       },
       {
         "name":"JAVA",
-        "level":"80%"
+        "level":"4"
       }
     ]
   },
