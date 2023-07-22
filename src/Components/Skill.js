@@ -12,22 +12,13 @@ import "react-circular-progressbar/dist/styles.css";
 import RadialSeparators from "./RadialSeparators";
 
 class Resume extends Component {
-  getRandomColor() {
-    let letters = "0123456789ABCDEF";
-    let color = "#";
-    for (let i = 0; i < 6; i++) {
-      color += letters[Math.floor(Math.random() * 16)];
-    }
-    return color;
-  }
-
   render() {
     if (!this.props.data) return null;
 
-    const skillmessage = this.props.data.skillmessage;
+    const colors = ['#b8ff19', '#cca814', '#ffdd4c', '#ff9d39', '#eb7700', '#ff3635', '#ff2975', '#ff699e', '#f564ff', '#c11bcc', '#ae61ff', '#8c1eff', '#1e20ff', '#1b82e5']
     
-    const skills = this.props.data.skills.map((skills) => {
-      const backgroundColor = this.getRandomColor();
+    const skills = this.props.data.skills.map((skills, index) => {
+      const backgroundColor = colors[index]
       const dotClass = "dot " + skills.name.toLowerCase();
 
       const rows = [];
@@ -70,8 +61,8 @@ class Resume extends Component {
                 maxValue={990}
                 styles={buildStyles({
                   strokeLinecap: "butt",
-                  pathColor: "#BC0B4C",
-                  textColor: "#BC0B4C"
+                  pathColor: "#16e556",
+                  textColor: "#16e556"
                 })}
               >
               </CircularProgressbarWithChildren>
@@ -90,14 +81,14 @@ class Resume extends Component {
                 maxValue={6}
                 styles={buildStyles({
                   strokeLinecap: "butt",
-                  pathColor: "#700BBC",
-                  textColor: "#700BBC"
+                  pathColor: "#3ee516",
+                  textColor: "#3ee516",
                 })}
               >
                 <RadialSeparators
                   count={6}
                   style={{
-                    background: "#fff",
+                    background: "#000524",
                     width: "2px",
                     // This needs to be equal to props.strokeWidth
                     height: `${10}%`
@@ -135,8 +126,6 @@ class Resume extends Component {
             </div>
 
             <div className="nine columns main-col">
-              <p className="info">{skillmessage}</p>
-
               <div className="bars">
                 <ul className="skills">{skills}</ul>
               </div>

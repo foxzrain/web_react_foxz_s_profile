@@ -12,6 +12,7 @@ class About extends Component {
     const state = this.props.data.address.state;
     const zip = this.props.data.address.zip;
     const email = this.props.data.email;
+    const work = this.props.data.work;
     const resumeDownload = this.props.data.resumedownload;
 
     const networks = this.props.data.social.map(function (network) {
@@ -43,13 +44,15 @@ class About extends Component {
                 <div className="columns contact-details">
                   <h2>Contact Details</h2>
                   <p className="address">
-                    <span>{name}</span>
+                    <i className="fa fa-user"></i><span>{name}</span>
                     <br />
-                    <span>
+                    <i className="fa fa-envelope"></i><span>{email}</span>
+                    <br />
+                    <i class="fa fa-briefcase"></i><span>{work}</span>
+                    <br />
+                    <i class="fa fa-home"></i><span>
                       {city} {state}, {zip}
                     </span>
-                    <br />
-                    <span>{email}</span>
                   </p>
                 </div>
 

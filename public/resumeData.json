@@ -2,8 +2,9 @@
   "main": {
     "name":"Pichaya Deachpol",
     "image":"profilepic.jpg",
-    "bio":"I possess 7 years of experience as a Computer Engineer. I have working knowledge of NFC in mobile applications, web applications and some software automotive with RFID.",
+    "bio":"I have 7 years of experience as a Computer Engineer. I have working knowledge of NFC with mobile applications, web applications, and support for some software related to RFID. My focus is on Android (JAVA), Flutter, PHP, Vue.js, and Reactjs. Moreover, I've learned a little about UI design, design thinking, and project management.",
     "email": "deachpol.p@gmail.com",
+    "work": "Senior Customer Application Engineer at Siliconcraft Technology PLC",
     "address":{
       "city":"Bang Yai",
       "state":"Nonthaburi",
@@ -34,27 +35,46 @@
         "school":"Prince of Songkla University (PSU)",
         "degree":"Masters in Computer Engineering",
         "graduated":"2015",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"PPAO. Ban Taladnua School",
-        "degree":"Math-Science",
-        "graduated":"2011",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":[
+            "I study in the field of hardware and robotics.",
+            "I used to participate in hardware clubs and took part in activities like Comcamp, as well as training and competitions related to line-following robots.",
+            "I also engage in voluntary school development camp activities."
+        ]
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Siliconcraft Technology PLC",
+        "title":"Embedded System Engineer",
+        "years":"2015 - 2017",
+        "description":[
+          "I work with engineering tools, with a primary focus on native Java Android development for NFC, including NDEF read/write and user memory management.",
+          "I have experience in creating Microsoft Power Apps for work task management and assignment.",
+          "I am experienced in developing PHP websites for reading NDEF NFC data to verify the authenticity of products."
+        ]
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"",
+        "title":"Senior Embedded System Engineer",
+        "years":"2018 - 2020",
+        "description":[
+          "I led a mini innovation project that involved creating game cards for kids. The game aims to help children improve their pronunciation and word spelling of Thai vocabulary.",
+          "I participated in the 'Trustify' project, which focuses on providing web services for brand protection. In this project, I developed the front-end web application.",
+          "I have joined the UI Design training provided by Skooldio."
+        ]
+      },
+      {
+        "company":"",
+        "title":"Senior Customer Application Engineer",
+        "years":"2020",
+        "description":[
+          "I focus on Flutter cross-platform mobile application development, I have been selected to convert code between native Java Android and Flutter.",
+          "I focus on React.js and Vue.js to create luxury websites for luxury service providers.",
+          "I have joined the UI Design training provided by Skooldio.",
+          "I learned about Web Design (Figma) through the Thai Webmaster Association.",
+          "I studied User Experience Design for Mobile Applications Development. This class was a free course offered by Mahidol University.",
+          "I participated in Project Management training and have been an ISO internal auditor."
+        ]
       }
     ],
     "languages":[
@@ -69,7 +89,15 @@
     ],
     "skills":[
       {
-        "name":"Python",
+        "name":"Android",
+        "level":"4"
+      },
+      {
+        "name":"Flutter",
+        "level":"3"
+      },
+      {
+        "name":"JavaScript",
         "level":"3"
       },
       {
@@ -81,20 +109,40 @@
         "level":"2"
       },
       {
-        "name":"CSS",
-        "level":"4"
-      },
-      {
         "name":"PHP",
-        "level":"4"
-      },
-      {
-        "name":"Swift",
         "level":"2"
       },
       {
-        "name":"JAVA",
-        "level":"4"
+        "name":"Angular 5",
+        "level":"2"
+      },
+      {
+        "name":"Git",
+        "level":"2"
+      },
+      {
+        "name":"Microsoft PowerApp",
+        "level":"2"
+      },
+      {
+        "name":"Microsoft Azure",
+        "level":"3"
+      },
+      {
+        "name":"Firebase",
+        "level":"2"
+      },
+      {
+        "name":"C#",
+        "level":"2"
+      },
+      {
+        "name":"Figma",
+        "level":"3"
+      },
+      {
+        "name":"Adobe XD",
+        "level":"3"
       }
     ]
   },
