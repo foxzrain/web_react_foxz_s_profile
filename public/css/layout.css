@@ -273,7 +273,7 @@ ul#nav li.current a {
 
 #about .download .button:hover {
    background: #fff;
-   color: #444;
+   color: #F06000;
 }
 
 #about .download .button i {
@@ -300,8 +300,9 @@ ul#nav li.current a {
    margin-left: 0;
 }
 
-#about i {
+#about .contact-details i {
    margin-right: 0.5rem;
+   color: #F06000;
 }
 
 /* ------------------------------------------------------------------ */
@@ -487,6 +488,14 @@ ul#nav li.current a {
 /* Portfolio Content */
 #portfolio-wrapper .columns {
    margin-bottom: 36px;
+}
+.portfolio-item .item-wrap{
+   margin: 0 auto;
+}
+
+.portfolio-item .item-wrap img{
+   width: 15rem;
+   height: 15rem;
 }
 
 
@@ -708,27 +717,5 @@ footer .social-links li:first-child {
 }
 
 #go-top a:hover {
-   background-color: #0F9095;
-}
-
-
-.social .btn:first-child {
-   margin-right: 30px;
-}
-
-.social .btn {
-   padding-left: 30px;
-   padding-right: 30px;
-}
-
-.social .btn i {
-   margin-right: 15px;
-}
-
-.project-btn {
-   background-color: #1abc9c !important;
-}
-
-.github-btn {
-   background-color: #34495e !important;
+   background-color: #F06000;
 }

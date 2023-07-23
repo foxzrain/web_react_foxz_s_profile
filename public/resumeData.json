@@ -10,7 +10,7 @@
       "state":"Nonthaburi",
       "zip": "11140"
     },
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"",
     "social":[
       {
         "name":"linkedin",
@@ -149,9 +149,7 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg"
+        "title":"Android"
       }
     ]
   }

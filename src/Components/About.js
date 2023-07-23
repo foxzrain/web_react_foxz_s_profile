@@ -48,9 +48,9 @@ class About extends Component {
                     <br />
                     <i className="fa fa-envelope"></i><span>{email}</span>
                     <br />
-                    <i class="fa fa-briefcase"></i><span>{work}</span>
+                    <i className="fa fa-briefcase"></i><span>{work}</span>
                     <br />
-                    <i class="fa fa-home"></i><span>
+                    <i className="fa fa-home"></i><span>
                       {city} {state}, {zip}
                     </span>
                   </p>

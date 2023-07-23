@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import ParticlesBg from "particles-bg";
 
-class Header extends Component {
+class Header extends Component {  
   render() {
     if (!this.props.data) return null;
 
@@ -21,8 +21,14 @@ class Header extends Component {
 
           <ul id="nav" className="nav">
             <li>
-              <a className="smoothscroll" href="#about">
+              <a className="smoothscroll" href="#home">
                 Home
+              </a>
+            </li>
+
+            <li>
+              <a className="smoothscroll" href="#about">
+                About
               </a>
             </li>
 
