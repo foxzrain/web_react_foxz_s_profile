@@ -149,7 +149,25 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Android"
+        "title":"Android",
+        "image":"android.png",
+        "set": [
+          {"src": "../assets/work/allstar5.png"},
+          {"src": "../assets/work/allstar1.JPEG"},
+          {"src": "../assets/work/allstar2.JPEG"},
+          {"src": "../assets/work/allstar3.JPEG"},
+          {"src": "../assets/work/allstar4.JPEG"},
+          {"src": "../assets/work/flex1.png"},
+          {"src": "../assets/work/flex2.JPEG"},
+          {"src": "../assets/work/flex3.JPEG"},
+          {"src": "../assets/work/flex4.JPEG"},
+          {"src": "../assets/work/flex5.JPEG"},
+          {"src": "../assets/work/flex8.png"},
+          {"src": "../assets/work/s1.png"},
+          {"src": "../assets/work/s2.png"},
+          {"src": "../assets/work/s3.png"},
+          {"src": "../assets/work/s4.png"}
+        ]
       }
     ]
   }

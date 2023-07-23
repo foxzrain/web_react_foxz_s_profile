@@ -6,7 +6,7 @@ class Header extends Component {
     if (!this.props.data) return null;
 
     return (
-      <header>
+      <header id="home">
         <ParticlesBg type="color" bg={true} />
 
         <nav id="nav-wrap">
@@ -20,12 +20,6 @@ class Header extends Component {
           </a>
 
           <ul id="nav" className="nav">
-            <li>
-              <a className="smoothscroll" href="#home">
-                Home
-              </a>
-            </li>
-
             <li>
               <a className="smoothscroll" href="#about">
                 About

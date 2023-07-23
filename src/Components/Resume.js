@@ -15,7 +15,7 @@ class Resume extends Component {
           </p>
           <div>{education.description.map(function (des) {
             return (
-              <li>{des}</li>
+              <li key={des}>{des}</li>
             );
             })}</div>
         </div>
@@ -24,7 +24,7 @@ class Resume extends Component {
 
     const work = this.props.data.work.map(function (work) {
       return (
-        <div key={work.company}>
+        <div key={work.title}>
           <h3>{work.company}</h3>
           <p className="info">
             {work.title}
@@ -32,7 +32,7 @@ class Resume extends Component {
           </p>
           <div>{work.description.map(function (des) {
             return (
-              <li>{des}</li>
+              <li key={des}>{des}</li>
             );
             })
           }</div>
