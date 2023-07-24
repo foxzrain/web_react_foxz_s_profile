@@ -249,12 +249,7 @@
    }
 
    .portfolio-item .item-wrap img {
-      width: 10rem;
       height: unset;
-   }
-
-   .portfolio-item .item-title {
-      width: 10rem;
    }
 
    /* footer

@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import Fade from "react-reveal";
+import ParticlesBg from "particles-bg";
 
 class Footer extends Component {
   render() {
@@ -7,6 +8,8 @@ class Footer extends Component {
 
     return (
       <footer>
+        <ParticlesBg type="color" bg={true} />
+
         <div className="row">
           <Fade bottom>
             <div className="twelve columns">

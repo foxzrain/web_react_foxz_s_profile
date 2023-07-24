@@ -494,12 +494,12 @@ ul#nav li.current a {
 }
 
 .portfolio-item .item-wrap img{
-   width: 15rem;
-   height: 15rem;
+   width: 10rem;
+   height: 10rem;
 }
 .portfolio-item .item-title {
    text-align: center;
-   width: 15rem;
+   width: 10rem;
 }
 
 /* Flex Slider
@@ -627,7 +627,6 @@ ul#nav li.current a {
 
 footer {
    padding-top: 48px;
-   margin-bottom: 48px;
    color: #303030;
    font-size: 14px;
    text-align: center;
