@@ -244,6 +244,18 @@
    #portfolio-wrapper .columns { margin-bottom: 40px; }
    .popup-modal {	max-width: 85%; }
 
+   .portfolio-item .item-wrap {
+      width: 30%;
+   }
+
+   .portfolio-item .item-wrap img {
+      width: 10rem;
+      height: unset;
+   }
+
+   .portfolio-item .item-title {
+      width: 10rem;
+   }
 
    /* footer
    ------------------------------------------------------------------------ */

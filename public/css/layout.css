@@ -497,7 +497,10 @@ ul#nav li.current a {
    width: 15rem;
    height: 15rem;
 }
-
+.portfolio-item .item-title {
+   text-align: center;
+   width: 15rem;
+}
 
 /* Flex Slider
 /* ------------------------------------------------------------------ */
