@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 import Fade from "react-reveal";
+import '../css/layout.css';
+import '../css/media-queries.css';
 
 class About extends Component {
   render() {
@@ -13,7 +15,6 @@ class About extends Component {
     const zip = this.props.data.address.zip;
     const email = this.props.data.email;
     const work = this.props.data.work;
-    const resumeDownload = this.props.data.resumedownload;
 
     const networks = this.props.data.social.map(function (network) {
       return (
@@ -62,7 +63,7 @@ class About extends Component {
                 
                 <div className="columns download">
                   <p>
-                    <a href={resumeDownload} className="button">
+                    <a href={require("../Files/pichaya_deachpol.pdf")}  target='_blank' rel="noreferrer" className="button">
                       <i className="fa fa-download"></i>Download Resume
                     </a>
                   </p>

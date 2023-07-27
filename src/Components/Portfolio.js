@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import Zmage from "react-zmage";
 import Fade from "react-reveal";
+import '../css/layout.css';
+import '../css/media-queries.css';
 
 let id = 0;
 class Portfolio extends Component {
@@ -8,7 +10,7 @@ class Portfolio extends Component {
     if (!this.props.data) return null;
     
     const portfolioes = this.props.data.projects.map(function (projects) {
-      let portfolioImage = "../assets/cover/" + projects.image;
+      let portfolioImage = "../Assets/cover/" + projects.image;
 
       return (
         <div key={id++} className="columns portfolio-item">

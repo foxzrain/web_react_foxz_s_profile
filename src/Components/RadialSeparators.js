@@ -1,5 +1,7 @@
 import React from "react";
 import _ from "lodash";
+import '../css/layout.css';
+import '../css/media-queries.css';
 
 function Separator(props) {
   return (

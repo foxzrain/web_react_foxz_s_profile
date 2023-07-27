@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 import Slide from "react-reveal";
+import '../css/layout.css';
+import '../css/media-queries.css';
 
 // Import react-circular-progressbar module and styles
 import {
@@ -51,8 +53,8 @@ class Resume extends Component {
     const languages = this.props.data.languages.map(function (language) {
       if(language.name === "English") {
         return (
-          <div className="column">
-            <div className="lang-width">
+          <div className="column" >
+            <div className="lang-width" key={language.name}>
               <h6 style={{textAlign: "center"}}>{language.name} (TOEIC)</h6>
               <CircularProgressbarWithChildren
                 value={language.level}
@@ -71,8 +73,8 @@ class Resume extends Component {
         );
       } else {
         return (
-          <div className="column">
-            <div className="lang-width">
+          <div className="column" >
+            <div className="lang-width" key={language.name}>
               <h6 style={{textAlign: "center"}}>{language.name} (HSK)</h6>
               <CircularProgressbarWithChildren
                 value={language.level}

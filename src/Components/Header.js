@@ -1,5 +1,8 @@
 import React, { Component } from "react";
 import ParticlesBg from "particles-bg";
+import '../css/layout.css';
+import '../css/media-queries.css';
+import Menu from '../Assets/icons/menu.png';
 
 class Header extends Component {  
   render() {
@@ -12,11 +15,11 @@ class Header extends Component {
         <nav id="nav-wrap">
           <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
             Show navigation
-            <img src="../assets/icons/menu.png" alt="menu"/>
+            <img src={Menu} alt="menu"/>
           </a>
           <a className="mobile-btn" href="#home" title="Hide navigation">
             Hide navigation
-            <img src="../assets/icons/menu.png" alt="menu"/>
+            <img src={Menu} alt="menu"/>
           </a>
 
           <ul id="nav" className="nav">

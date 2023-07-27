@@ -1,38 +1,41 @@
 import React, { Component } from "react";
 import Slide from "react-reveal";
+import '../css/layout.css';
+import '../css/media-queries.css';
 
 class Resume extends Component {
   render() {
     if (!this.props.data) return null;
     
-    const education = this.props.data.education.map(function (education) {
+    const education = this.props.data.education.map(function (education, index) {
       return (
-        <div key={education.school}>
+        <div key={'school'}>
           <h3>{education.school}</h3>
           <p className="info">
             {education.degree} <span>&bull;</span>
             <em className="date">{education.graduated}</em>
           </p>
-          <div>{education.description.map(function (des) {
+          <div key={'school-des' + index}>{education.description.map(function (des, index) {
             return (
-              <li key={des}>{des}</li>
+              <li key={'school-des-li' + index}>{des}</li>
             );
-            })}</div>
+            })}
+          </div>
         </div>
       );
     });
 
-    const work = this.props.data.work.map(function (work) {
+    const work = this.props.data.work.map(function (work, index) {
       return (
-        <div key={work.title}>
+        <div key={'work' + index}>
           <h3>{work.company}</h3>
           <p className="info">
             {work.title}
             <span>&bull;</span> <em className="date">{work.years}</em>
           </p>
-          <div>{work.description.map(function (des) {
+          <div key={'work-des' + index}>{work.description.map(function (des, index) {
             return (
-              <li key={des}>{des}</li>
+              <li key={'work-des-li' + index}>{des}</li>
             );
             })
           }</div>

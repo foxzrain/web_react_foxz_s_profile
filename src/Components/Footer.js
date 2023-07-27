@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import Fade from "react-reveal";
 import ParticlesBg from "particles-bg";
+import '../css/layout.css';
+import '../css/media-queries.css';
 
 class Footer extends Component {
   render() {
