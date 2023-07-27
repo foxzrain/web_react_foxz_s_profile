@@ -4,16 +4,15 @@ import Fade from "react-reveal";
 import '../css/layout.css';
 import '../css/media-queries.css';
 
-let id = 0;
 class Portfolio extends Component {
   render() {
     if (!this.props.data) return null;
     
-    const portfolioes = this.props.data.projects.map(function (projects) {
+    const portfolioes = this.props.data.projects.map(function (projects, index) {
       let portfolioImage = "../Assets/cover/" + projects.image;
 
       return (
-        <div key={id++} className="columns portfolio-item">
+        <div key={index} className="columns portfolio-item">
           <div className="item-wrap">
             <Zmage alt={projects.title} src={portfolioImage} set={projects.set}/>
             <div className="item-title">{projects.title}</div>

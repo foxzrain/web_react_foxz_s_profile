@@ -75,7 +75,9 @@
           "I participated in Project Management training and have been an ISO internal auditor."
         ]
       }
-    ],
+    ]
+  },
+  "skills":{
     "languages":[
       {
         "name":"English",

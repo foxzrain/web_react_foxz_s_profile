@@ -9,15 +9,16 @@ class Resume extends Component {
     
     const education = this.props.data.education.map(function (education, index) {
       return (
-        <div key={'school'}>
+        <div key={'s'  + index}>
           <h3>{education.school}</h3>
           <p className="info">
             {education.degree} <span>&bull;</span>
             <em className="date">{education.graduated}</em>
           </p>
-          <div key={'school-des' + index}>{education.description.map(function (des, index) {
+
+          <div key={'s-des' + index}>{education.description.map(function (des, index) {
             return (
-              <li key={'school-des-li' + index}>{des}</li>
+              <li key={'s-li' + index}>{des}</li>
             );
             })}
           </div>
@@ -27,15 +28,15 @@ class Resume extends Component {
 
     const work = this.props.data.work.map(function (work, index) {
       return (
-        <div key={'work' + index}>
+        <div key={'w' + index}>
           <h3>{work.company}</h3>
           <p className="info">
             {work.title}
             <span>&bull;</span> <em className="date">{work.years}</em>
           </p>
-          <div key={'work-des' + index}>{work.description.map(function (des, index) {
+          <div key={'w-des' + index}>{work.description.map(function (des, index) {
             return (
-              <li key={'work-des-li' + index}>{des}</li>
+              <li key={'w-li' + index}>{des}</li>
             );
             })
           }</div>
