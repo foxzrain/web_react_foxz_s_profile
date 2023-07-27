@@ -15,6 +15,7 @@ class About extends Component {
     const zip = this.props.data.address.zip;
     const email = this.props.data.email;
     const work = this.props.data.work;
+    const resumeDownload = this.props.data.resumedownload;
 
     const networks = this.props.data.social.map(function (network) {
       return (
@@ -63,7 +64,7 @@ class About extends Component {
                 
                 <div className="columns download">
                   <p>
-                    <a href={require("../Files/pichaya_deachpol.pdf")}  target='_blank' rel="noreferrer" className="button">
+                    <a href={resumeDownload}  target='_blank' className="button">
                       <i className="fa fa-download"></i>Download Resume
                     </a>
                   </p>
