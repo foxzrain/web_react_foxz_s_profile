@@ -1,8 +1,6 @@
 import React, { Component } from "react";
 import Zmage from "react-zmage";
 import Fade from "react-reveal";
-import '../css/layout.css';
-import '../css/media-queries.css';
 
 class Portfolio extends Component {
   render() {

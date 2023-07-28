@@ -1,7 +1,5 @@
 import React, { Component } from "react";
 import ParticlesBg from "particles-bg";
-import '../css/layout.css';
-import '../css/media-queries.css';
 
 class Header extends Component {  
   render() {
