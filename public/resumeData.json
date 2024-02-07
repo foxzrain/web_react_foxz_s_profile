@@ -50,7 +50,8 @@
         "description":[
           "I work with engineering tools, with a primary focus on native Java Android development for NFC, including NDEF read/write and user memory management.",
           "I have experience in creating Microsoft Power Apps for work task management and assignment.",
-          "I am experienced in developing PHP websites for reading NDEF NFC data to verify the authenticity of products."
+          "I am experienced in developing PHP websites for reading NDEF NFC data to verify the authenticity of products.",
+          "This is the native java android application on play store : \n- https://play.google.com/store/apps/dev?id=4672503715299258271&hl=en-TH"
         ]
       },
       {
@@ -69,7 +70,9 @@
         "years":"2020",
         "description":[
           "I focus on Flutter cross-platform mobile application development, I have been selected to convert code between native Java Android and Flutter.",
+          "There are the flutter application on App store and play store :\n- https://play.google.com/store/apps/details?id=co.th.sic.nfcenabler\n- https://play.google.com/store/apps/details?id=th.co.sic.mobile_flutter_sictagencode\n- https://apps.apple.com/th/app/nfc-app-demo-by-sic/id1569548337\n- https://apps.apple.com/th/app/tagencoder/id1662426450",
           "I focus on React.js and Vue.js to create luxury websites for luxury service providers.",
+          "This is the React.js web application :\n- https://webapp.sic.co.th/nfcdesigntools/",
           "I have joined the UI Design training provided by Skooldio.",
           "I learned about Web Design (Figma) through the Thai Webmaster Association.",
           "I studied User Experience Design for Mobile Applications Development. This class was a free course offered by Mahidol University.",
