@@ -38,6 +38,14 @@ class Resume extends Component {
             );
             })
           }</div>
+
+          
+          <div key={'w-url' + index}>{work.url.map(function (url, index) {
+            return (
+              <ul><li ><a key={'w-li' + index} target="_blank" rel="noopener noreferrer" href={url}>{url}</a></li></ul>
+            );
+            })
+          }</div>
         </div>
       );
     });
