@@ -1,5 +1,15 @@
 {
   "projects": {
     "default": "foxz-portfolio"
-  }
+  },
+  "targets": {
+    "justfoxz": {
+      "hosting": {
+        "justfoxz": [
+          "foxz-portfolio"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
