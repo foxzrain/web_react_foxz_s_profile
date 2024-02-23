@@ -4,54 +4,42 @@ import Slide from "react-reveal";
 class Resume extends Component {
   render() {
     if (!this.props.data) return null;
-    
-    const education = this.props.data.education.map(function (education, index) {
+
+    const education = this.props.data.education.map((education, index) => {
       return (
-        <div key={'s'  + index}>
+        <div key={Math.random()}>
           <h3>{education.school}</h3>
           <p className="info">
             {education.degree} <span>&bull;</span>
             <em className="date">{education.graduated}</em>
           </p>
-
-          <div key={'s-des' + index}>{education.description.map(function (des, index) {
-            return (
-              <li key={'s-li' + index}>{des}</li>
-            );
-            })}
-          </div>
+    
+          <div>{education.description.map((des, index) => {
+              return <li key={Math.random()}>{des}</li>
+            })
+          }</div>
         </div>
       );
     });
 
-    const work = this.props.data.work.map(function (work, index) {
+    const work = this.props.data.work.map((work, index) => {
       return (
-        <div key={'w' + index}>
+        <div key={Math.random()}>
           <h3>{work.company}</h3>
           <p className="info">
             {work.title}
-            <span>&bull;</span> <em className="date">{work.years}</em>
+            <span>&bull;</span> 
+            <em className="date">{work.years}</em>
           </p>
-          <div key={'w-des' + index}>{work.description.map(function (des, index) {
-            return (
-              <li key={'w-li' + index}>{des}</li>
-            );
-            })
-          }</div>
-
-          
-          <div key={'w-url' + index}>{work.url.map(function (url, index) {
-            return (
-              <ul><li ><a key={'w-li' + index} target="_blank" rel="noopener noreferrer" href={url}>{url}</a></li></ul>
-            );
+    
+          <div>{work.description.map((des, index) => {
+              return <li key={Math.random()}>{des}</li>
             })
           }</div>
         </div>
       );
     });
-
-
-
+    
     return (
       <section id="resume">
         <Slide left duration={1300}>

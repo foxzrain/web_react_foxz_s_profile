@@ -39,8 +39,7 @@
           "I study in the field of hardware and robotics.",
           "I used to participate in hardware clubs and took part in activities like Comcamp, as well as training and competitions related to line-following robots.",
           "I also engage in voluntary school development camp activities."
-        ],
-        "url": []
+        ]
       }
     ],
     "work": [
@@ -53,9 +52,6 @@
           "I have experience in creating Microsoft Power Apps for work task management and assignment.",
           "I am experienced in developing PHP websites for reading NDEF NFC data to verify the authenticity of products.",
           "This is the native java android application on play store :"
-        ],
-        "url": [
-          "https://play.google.com/store/apps/dev?id=4672503715299258271&hl=en-TH"
         ]
       },
       {
@@ -67,8 +63,7 @@
           "I participated in the 'Trustify' project, which focuses on providing web services for brand protection. In this project, I developed the front-end web application.",
           "I have joined the UI Design training provided by Skooldio.",
           "I have developed a native Java Android application with NFC to create solid measurement applications."
-        ],
-        "url": []
+        ]
       },
       {
         "company": "",
@@ -84,13 +79,6 @@
           "I have developed a Flutter application with BLE to create solid measurement applications.",
           "Writing backend that utilizes open-source encryption library on Azure Function using C#.",
           "There are the flutter application on App store and play store : "
-        ],
-        "url": [
-          "https://play.google.com/store/apps/details?id=co.th.sic.nfcenabler",
-          "https://play.google.com/store/apps/details?id=th.co.sic.mobile_flutter_sictagencode",
-          "https://apps.apple.com/th/app/nfc-app-demo-by-sic/id1569548337",
-          "https://apps.apple.com/th/app/tagencoder/id1662426450",
-          "https://webapp.sic.co.th/nfcdesigntools/"
         ]
       }
     ]
@@ -172,67 +160,67 @@
         "image": "android.png",
         "set": [
           {
-            "src": "../Assets/work/allstar/allstar5.png"
+            "src": "./Assets/work/allstar/allstar5.png"
           },
           {
-            "src": "../Assets/work/allstar/allstar1.JPEG"
+            "src": "./Assets/work/allstar/allstar1.JPEG"
           },
           {
-            "src": "../Assets/work/allstar/allstar2.JPEG"
+            "src": "./Assets/work/allstar/allstar2.JPEG"
           },
           {
-            "src": "../Assets/work/allstar/allstar3.JPEG"
+            "src": "./Assets/work/allstar/allstar3.JPEG"
           },
           {
-            "src": "../Assets/work/allstar/allstar4.JPEG"
+            "src": "./Assets/work/allstar/allstar4.JPEG"
           },
           {
-            "src": "../Assets/work/allstar/allstar6.png"
+            "src": "./Assets/work/allstar/allstar6.png"
           },
           {
-            "src": "../Assets/work/allstar/allstar7.png"
+            "src": "./Assets/work/allstar/allstar7.png"
           },
           {
-            "src": "../Assets/work/flexsense/flex1.png"
+            "src": "./Assets/work/flexsense/flex1.png"
           },
           {
-            "src": "../Assets/work/flexsense/flex2.JPEG"
+            "src": "./Assets/work/flexsense/flex2.JPEG"
           },
           {
-            "src": "../Assets/work/flexsense/flex3.JPEG"
+            "src": "./Assets/work/flexsense/flex3.JPEG"
           },
           {
-            "src": "../Assets/work/flexsense/flex4.JPEG"
+            "src": "./Assets/work/flexsense/flex4.JPEG"
           },
           {
-            "src": "../Assets/work/flexsense/flex5.JPEG"
+            "src": "./Assets/work/flexsense/flex5.JPEG"
           },
           {
-            "src": "../Assets/work/flexsense/flex6.png"
+            "src": "./Assets/work/flexsense/flex6.png"
           },
           {
-            "src": "../Assets/work/s1/s1.png"
+            "src": "./Assets/work/s1/s1.png"
           },
           {
-            "src": "../Assets/work/s1/s2.png"
+            "src": "./Assets/work/s1/s2.png"
           },
           {
-            "src": "../Assets/work/s1/s3.png"
+            "src": "./Assets/work/s1/s3.png"
           },
           {
-            "src": "../Assets/work/s1/s4.png"
+            "src": "./Assets/work/s1/s4.png"
           },
           {
-            "src": "../Assets/work/digitalkey/d1.png"
+            "src": "./Assets/work/digitalkey/d1.png"
           },
           {
-            "src": "../Assets/work/digitalkey/d2.png"
+            "src": "./Assets/work/digitalkey/d2.png"
           },
           {
-            "src": "../Assets/work/digitalkey/d3.png"
+            "src": "./Assets/work/digitalkey/d3.png"
           },
           {
-            "src": "../Assets/work/digitalkey/d4.png"
+            "src": "./Assets/work/digitalkey/d4.png"
           }
         ]
       },
@@ -241,43 +229,43 @@
         "image": "flutter.png",
         "set": [
           {
-            "src": "../Assets/work/enabler/en1.png"
+            "src": "./Assets/work/enabler/en1.png"
           },
           {
-            "src": "../Assets/work/enabler/en2.JPEG"
+            "src": "./Assets/work/enabler/en2.JPEG"
           },
           {
-            "src": "../Assets/work/enabler/en3.JPEG"
+            "src": "./Assets/work/enabler/en3.JPEG"
           },
           {
-            "src": "../Assets/work/enabler/en4.JPEG"
+            "src": "./Assets/work/enabler/en4.JPEG"
           },
           {
-            "src": "../Assets/work/enabler/en5.png"
+            "src": "./Assets/work/enabler/en5.png"
           },
           {
-            "src": "../Assets/work/enabler/en6.png"
+            "src": "./Assets/work/enabler/en6.png"
           },
           {
-            "src": "../Assets/work/encoder/f_nt1.png"
+            "src": "./Assets/work/encoder/f_nt1.png"
           },
           {
-            "src": "../Assets/work/encoder/f_nt2.png"
+            "src": "./Assets/work/encoder/f_nt2.png"
           },
           {
-            "src": "../Assets/work/encoder/f_nt3.png"
+            "src": "./Assets/work/encoder/f_nt3.png"
           },
           {
-            "src": "../Assets/work/encoder/f_nt4.png"
+            "src": "./Assets/work/encoder/f_nt4.png"
           },
           {
-            "src": "../Assets/work/encoder/f_nt5.png"
+            "src": "./Assets/work/encoder/f_nt5.png"
           },
           {
-            "src": "../Assets/work/encoder/f_nt6.png"
+            "src": "./Assets/work/encoder/f_nt6.png"
           },
           {
-            "src": "../Assets/work/encoder/f_nt7.png"
+            "src": "./Assets/work/encoder/f_nt7.png"
           }
         ]
       },
@@ -286,16 +274,16 @@
         "image": "angular.png",
         "set": [
           {
-            "src": "../Assets/work/trustify/trus3.png"
+            "src": "./Assets/work/trustify/trus3.png"
           },
           {
-            "src": "../Assets/work/trustify/trus5.JPEG"
+            "src": "./Assets/work/trustify/trus5.JPEG"
           },
           {
-            "src": "../Assets/work/trustify/trus6.JPEG"
+            "src": "./Assets/work/trustify/trus6.JPEG"
           },
           {
-            "src": "../Assets/work/trustify/trus1.JPEG"
+            "src": "./Assets/work/trustify/trus1.JPEG"
           }
         ]
       },
@@ -304,16 +292,16 @@
         "image": "c-sharp.png",
         "set": [
           {
-            "src": "../Assets/work/Csharp/c1.png"
+            "src": "./Assets/work/Csharp/c1.png"
           },
           {
-            "src": "../Assets/work/Csharp/c2.png"
+            "src": "./Assets/work/Csharp/c2.png"
           },
           {
-            "src": "../Assets/work/Csharp/sw_imr_1.jpg"
+            "src": "./Assets/work/Csharp/sw_imr_1.jpg"
           },
           {
-            "src": "../Assets/work/Csharp/sw_imr.jpg"
+            "src": "./Assets/work/Csharp/sw_imr.jpg"
           }
         ]
       },
@@ -322,10 +310,10 @@
         "image": "php.png",
         "set": [
           {
-            "src": "../Assets/work/php/php_nt1.png"
+            "src": "./Assets/work/php/php_nt1.png"
           },
           {
-            "src": "../Assets/work/php/php_nt2.png"
+            "src": "./Assets/work/php/php_nt2.png"
           }
         ]
       },
@@ -334,13 +322,13 @@
         "image": "vue.png",
         "set": [
           {
-            "src": "../Assets/work/vue/vue_w1.jpg"
+            "src": "./Assets/work/vue/vue_w1.jpg"
           },
           {
-            "src": "../Assets/work/vue/vue_w2.jpg"
+            "src": "./Assets/work/vue/vue_w2.jpg"
           },
           {
-            "src": "../Assets/work/vue/vue_w3.jpg"
+            "src": "./Assets/work/vue/vue_w3.jpg"
           }
         ]
       },
@@ -349,10 +337,10 @@
         "image": "react.png",
         "set": [
           {
-            "src": "../Assets/work/react/online1.png"
+            "src": "./Assets/work/react/online1.png"
           },
           {
-            "src": "../Assets/work/react/online2.png"
+            "src": "./Assets/work/react/online2.png"
           }
         ]
       },
@@ -361,16 +349,16 @@
         "image": "js.png",
         "set": [
           {
-            "src": "../Assets/work/js/js1.png"
+            "src": "./Assets/work/js/js1.png"
           },
           {
-            "src": "../Assets/work/js/js2.png"
+            "src": "./Assets/work/js/js2.png"
           },
           {
-            "src": "../Assets/work/js/js3.png"
+            "src": "./Assets/work/js/js3.png"
           },
           {
-            "src": "../Assets/work/js/js4.png"
+            "src": "./Assets/work/js/js4.png"
           }
         ]
       },
@@ -379,10 +367,10 @@
         "image": "ui.png",
         "set": [
           {
-            "src": "../Assets/work/ui/fig1.jpg"
+            "src": "./Assets/work/ui/fig1.jpg"
           },
           {
-            "src": "../Assets/work/ui/fig2.jpg"
+            "src": "./Assets/work/ui/fig2.jpg"
           }
         ]
       },
@@ -391,13 +379,13 @@
         "image": "innovation.png",
         "set": [
           {
-            "src": "../Assets/work/innovation/inno1.JPG"
+            "src": "./Assets/work/innovation/inno1.JPG"
           },
           {
-            "src": "../Assets/work/innovation/inno2.JPG"
+            "src": "./Assets/work/innovation/inno2.JPG"
           },
           {
-            "src": "../Assets/work/innovation/inno3.JPG"
+            "src": "./Assets/work/innovation/inno3.JPG"
           }
         ]
       },
@@ -406,10 +394,10 @@
         "image": "languages.png",
         "set": [
           {
-            "src": "../Assets/work/languages/lang1.JPEG"
+            "src": "./Assets/work/languages/lang1.JPEG"
           },
           {
-            "src": "../Assets/work/languages/lang2.jpg"
+            "src": "./Assets/work/languages/lang2.jpg"
           }
         ]
       }
