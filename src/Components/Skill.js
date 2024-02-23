@@ -27,19 +27,19 @@ class Resume extends Component {
           // element in this array. see: https://reactjs.org/docs/lists-and-keys.html
           if(i < skills.level) {
             rows.push(
-                <div style={{ backgroundColor, borderColor: backgroundColor }} className={dotClass}>
+                <div key={i} style={{ backgroundColor, borderColor: backgroundColor }} className={dotClass}>
                 </div>
             );
           } else {
             rows.push(
-              <div style={{ backgroundColor: "transparent", borderColor: backgroundColor }} className={dotClass}>
+              <div key={i} style={{ backgroundColor: "transparent", borderColor: backgroundColor }} className={dotClass}>
               </div>
           );
           }
       }
 
       return (
-        <li key={skills.name}>            
+        <li key={index}>            
           <em>{skills.name}</em>
           <div className="row-skill">
             {rows}
@@ -48,10 +48,10 @@ class Resume extends Component {
       );
     });
 
-    const languages = this.props.data.languages.map(function (language) {
+    const languages = this.props.data.languages.map((language, index) => {
       if(language.name === "English") {
         return (
-          <div className="column" >
+          <div key={index} className="column" >
             <div className="lang-width" key={language.name}>
               <h6 style={{textAlign: "center"}}>{language.name} (TOEIC)</h6>
               <CircularProgressbarWithChildren
@@ -71,7 +71,7 @@ class Resume extends Component {
         );
       } else {
         return (
-          <div className="column" >
+          <div key={index} className="column" >
             <div className="lang-width" key={language.name}>
               <h6 style={{textAlign: "center"}}>{language.name} (HSK)</h6>
               <CircularProgressbarWithChildren

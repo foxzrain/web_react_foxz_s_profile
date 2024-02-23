@@ -7,7 +7,7 @@ class Resume extends Component {
 
     const education = this.props.data.education.map((education, index) => {
       return (
-        <div key={Math.random()}>
+        <div key={index}>
           <h3>{education.school}</h3>
           <p className="info">
             {education.degree} <span>&bull;</span>
@@ -15,7 +15,7 @@ class Resume extends Component {
           </p>
     
           <div>{education.description.map((des, index) => {
-              return <li key={Math.random()}>{des}</li>
+              return <li key={index}>{des}</li>
             })
           }</div>
         </div>
@@ -24,7 +24,7 @@ class Resume extends Component {
 
     const work = this.props.data.work.map((work, index) => {
       return (
-        <div key={Math.random()}>
+        <div key={index}>
           <h3>{work.company}</h3>
           <p className="info">
             {work.title}
@@ -33,7 +33,7 @@ class Resume extends Component {
           </p>
     
           <div>{work.description.map((des, index) => {
-              return <li key={Math.random()}>{des}</li>
+              return <li key={index}>{des}</li>
             })
           }</div>
         </div>

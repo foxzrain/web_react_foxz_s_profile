@@ -15,9 +15,9 @@ class About extends Component {
     const work = this.props.data.work;
     const resumeDownload = this.props.data.resumedownload;
 
-    const networks = this.props.data.social.map(function (network) {
+    const networks = this.props.data.social.map((network, index) => {
       return (
-        <li key={network.name}>
+        <li key={index}>
           <a href={network.url}>
             <i className={network.className}></i>
           </a>
@@ -62,7 +62,7 @@ class About extends Component {
                 
                 <div className="columns download">
                   <p>
-                    <a href={resumeDownload}  target='_blank' className="button">
+                    <a href={resumeDownload} className="button">
                       <i className="fa fa-download"></i>Download Resume
                     </a>
                   </p>

@@ -160,67 +160,67 @@
         "image": "android.png",
         "set": [
           {
-            "src": "./Assets/work/allstar/allstar5.png"
+            "src": "../Assets/work/allstar/allstar5.png"
           },
           {
-            "src": "./Assets/work/allstar/allstar1.JPEG"
+            "src": "../Assets/work/allstar/allstar1.JPEG"
           },
           {
-            "src": "./Assets/work/allstar/allstar2.JPEG"
+            "src": "../Assets/work/allstar/allstar2.JPEG"
           },
           {
-            "src": "./Assets/work/allstar/allstar3.JPEG"
+            "src": "../Assets/work/allstar/allstar3.JPEG"
           },
           {
-            "src": "./Assets/work/allstar/allstar4.JPEG"
+            "src": "../Assets/work/allstar/allstar4.JPEG"
           },
           {
-            "src": "./Assets/work/allstar/allstar6.png"
+            "src": "../Assets/work/allstar/allstar6.png"
           },
           {
-            "src": "./Assets/work/allstar/allstar7.png"
+            "src": "../Assets/work/allstar/allstar7.png"
           },
           {
-            "src": "./Assets/work/flexsense/flex1.png"
+            "src": "../Assets/work/flexsense/flex1.png"
           },
           {
-            "src": "./Assets/work/flexsense/flex2.JPEG"
+            "src": "../Assets/work/flexsense/flex2.JPEG"
           },
           {
-            "src": "./Assets/work/flexsense/flex3.JPEG"
+            "src": "../Assets/work/flexsense/flex3.JPEG"
           },
           {
-            "src": "./Assets/work/flexsense/flex4.JPEG"
+            "src": "../Assets/work/flexsense/flex4.JPEG"
           },
           {
-            "src": "./Assets/work/flexsense/flex5.JPEG"
+            "src": "../Assets/work/flexsense/flex5.JPEG"
           },
           {
-            "src": "./Assets/work/flexsense/flex6.png"
+            "src": "../Assets/work/flexsense/flex6.png"
           },
           {
-            "src": "./Assets/work/s1/s1.png"
+            "src": "../Assets/work/s1/s1.png"
           },
           {
-            "src": "./Assets/work/s1/s2.png"
+            "src": "../Assets/work/s1/s2.png"
           },
           {
-            "src": "./Assets/work/s1/s3.png"
+            "src": "../Assets/work/s1/s3.png"
           },
           {
-            "src": "./Assets/work/s1/s4.png"
+            "src": "../Assets/work/s1/s4.png"
           },
           {
-            "src": "./Assets/work/digitalkey/d1.png"
+            "src": "../Assets/work/digitalkey/d1.png"
           },
           {
-            "src": "./Assets/work/digitalkey/d2.png"
+            "src": "../Assets/work/digitalkey/d2.png"
           },
           {
-            "src": "./Assets/work/digitalkey/d3.png"
+            "src": "../Assets/work/digitalkey/d3.png"
           },
           {
-            "src": "./Assets/work/digitalkey/d4.png"
+            "src": "../Assets/work/digitalkey/d4.png"
           }
         ]
       },
@@ -229,43 +229,43 @@
         "image": "flutter.png",
         "set": [
           {
-            "src": "./Assets/work/enabler/en1.png"
+            "src": "../Assets/work/enabler/en1.png"
           },
           {
-            "src": "./Assets/work/enabler/en2.JPEG"
+            "src": "../Assets/work/enabler/en2.JPEG"
           },
           {
-            "src": "./Assets/work/enabler/en3.JPEG"
+            "src": "../Assets/work/enabler/en3.JPEG"
           },
           {
-            "src": "./Assets/work/enabler/en4.JPEG"
+            "src": "../Assets/work/enabler/en4.JPEG"
           },
           {
-            "src": "./Assets/work/enabler/en5.png"
+            "src": "../Assets/work/enabler/en5.png"
           },
           {
-            "src": "./Assets/work/enabler/en6.png"
+            "src": "../Assets/work/enabler/en6.png"
           },
           {
-            "src": "./Assets/work/encoder/f_nt1.png"
+            "src": "../Assets/work/encoder/f_nt1.png"
           },
           {
-            "src": "./Assets/work/encoder/f_nt2.png"
+            "src": "../Assets/work/encoder/f_nt2.png"
           },
           {
-            "src": "./Assets/work/encoder/f_nt3.png"
+            "src": "../Assets/work/encoder/f_nt3.png"
           },
           {
-            "src": "./Assets/work/encoder/f_nt4.png"
+            "src": "../Assets/work/encoder/f_nt4.png"
           },
           {
-            "src": "./Assets/work/encoder/f_nt5.png"
+            "src": "../Assets/work/encoder/f_nt5.png"
           },
           {
-            "src": "./Assets/work/encoder/f_nt6.png"
+            "src": "../Assets/work/encoder/f_nt6.png"
           },
           {
-            "src": "./Assets/work/encoder/f_nt7.png"
+            "src": "../Assets/work/encoder/f_nt7.png"
           }
         ]
       },
@@ -274,16 +274,16 @@
         "image": "angular.png",
         "set": [
           {
-            "src": "./Assets/work/trustify/trus3.png"
+            "src": "../Assets/work/trustify/trus3.png"
           },
           {
-            "src": "./Assets/work/trustify/trus5.JPEG"
+            "src": "../Assets/work/trustify/trus5.JPEG"
           },
           {
-            "src": "./Assets/work/trustify/trus6.JPEG"
+            "src": "../Assets/work/trustify/trus6.JPEG"
           },
           {
-            "src": "./Assets/work/trustify/trus1.JPEG"
+            "src": "../Assets/work/trustify/trus1.JPEG"
           }
         ]
       },
@@ -292,16 +292,16 @@
         "image": "c-sharp.png",
         "set": [
           {
-            "src": "./Assets/work/Csharp/c1.png"
+            "src": "../Assets/work/Csharp/c1.png"
           },
           {
-            "src": "./Assets/work/Csharp/c2.png"
+            "src": "../Assets/work/Csharp/c2.png"
           },
           {
-            "src": "./Assets/work/Csharp/sw_imr_1.jpg"
+            "src": "../Assets/work/Csharp/sw_imr_1.jpg"
           },
           {
-            "src": "./Assets/work/Csharp/sw_imr.jpg"
+            "src": "../Assets/work/Csharp/sw_imr.jpg"
           }
         ]
       },
@@ -310,10 +310,10 @@
         "image": "php.png",
         "set": [
           {
-            "src": "./Assets/work/php/php_nt1.png"
+            "src": "../Assets/work/php/php_nt1.png"
           },
           {
-            "src": "./Assets/work/php/php_nt2.png"
+            "src": "../Assets/work/php/php_nt2.png"
           }
         ]
       },
@@ -322,13 +322,13 @@
         "image": "vue.png",
         "set": [
           {
-            "src": "./Assets/work/vue/vue_w1.jpg"
+            "src": "../Assets/work/vue/vue_w1.jpg"
           },
           {
-            "src": "./Assets/work/vue/vue_w2.jpg"
+            "src": "../Assets/work/vue/vue_w2.jpg"
           },
           {
-            "src": "./Assets/work/vue/vue_w3.jpg"
+            "src": "../Assets/work/vue/vue_w3.jpg"
           }
         ]
       },
@@ -337,10 +337,10 @@
         "image": "react.png",
         "set": [
           {
-            "src": "./Assets/work/react/online1.png"
+            "src": "../Assets/work/react/online1.png"
           },
           {
-            "src": "./Assets/work/react/online2.png"
+            "src": "../Assets/work/react/online2.png"
           }
         ]
       },
@@ -349,16 +349,16 @@
         "image": "js.png",
         "set": [
           {
-            "src": "./Assets/work/js/js1.png"
+            "src": "../Assets/work/js/js1.png"
           },
           {
-            "src": "./Assets/work/js/js2.png"
+            "src": "../Assets/work/js/js2.png"
           },
           {
-            "src": "./Assets/work/js/js3.png"
+            "src": "../Assets/work/js/js3.png"
           },
           {
-            "src": "./Assets/work/js/js4.png"
+            "src": "../Assets/work/js/js4.png"
           }
         ]
       },
@@ -367,10 +367,10 @@
         "image": "ui.png",
         "set": [
           {
-            "src": "./Assets/work/ui/fig1.jpg"
+            "src": "../Assets/work/ui/fig1.jpg"
           },
           {
-            "src": "./Assets/work/ui/fig2.jpg"
+            "src": "../Assets/work/ui/fig2.jpg"
           }
         ]
       },
@@ -379,13 +379,13 @@
         "image": "innovation.png",
         "set": [
           {
-            "src": "./Assets/work/innovation/inno1.JPG"
+            "src": "../Assets/work/innovation/inno1.JPG"
           },
           {
-            "src": "./Assets/work/innovation/inno2.JPG"
+            "src": "../Assets/work/innovation/inno2.JPG"
           },
           {
-            "src": "./Assets/work/innovation/inno3.JPG"
+            "src": "../Assets/work/innovation/inno3.JPG"
           }
         ]
       },
@@ -394,10 +394,10 @@
         "image": "languages.png",
         "set": [
           {
-            "src": "./Assets/work/languages/lang1.JPEG"
+            "src": "../Assets/work/languages/lang1.JPEG"
           },
           {
-            "src": "./Assets/work/languages/lang2.jpg"
+            "src": "../Assets/work/languages/lang2.jpg"
           }
         ]
       }
