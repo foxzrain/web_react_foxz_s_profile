@@ -1,20 +1,18 @@
 import React, { Component } from "react";
-import ReactZmage from "react-zmage";
 import Fade from "react-reveal";
+import ImageGallery from "react-image-gallery";
+// import stylesheet if you're not already using CSS @import
+import "react-image-gallery/styles/css/image-gallery.css";
 
 class Portfolio extends Component {
   render() {
     if (!this.props.data) return null;
     
     const portfolioes = this.props.data.projects.map((projects, index) => {
-      let portfolioImage = "../Assets/cover/" + projects.image;
-
       return (
-        <div key={index} className="columns portfolio-item">
-          <div className="item-wrap">
-            <ReactZmage alt={projects.title} src={portfolioImage} set={projects.set}/>
-            <div className="item-title">{projects.title}</div>
-          </div>
+        <div key={index} className="item-wrap">
+          <h3>{projects.title}</h3>
+          <ImageGallery items={projects.images} thumbnail={projects.title} />
         </div>
       );
     });

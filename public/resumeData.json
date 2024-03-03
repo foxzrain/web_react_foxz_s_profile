@@ -157,247 +157,269 @@
     "projects": [
       {
         "title": "Android",
-        "image": "android.png",
-        "set": [
+        "images": [
           {
-            "src": "../Assets/work/allstar/allstar5.png"
+            "original": "../Assets/cover/android.png"
           },
           {
-            "src": "../Assets/work/allstar/allstar1.JPEG"
+            "original": "./Assets/work/allstar/allstar5.png"
           },
           {
-            "src": "../Assets/work/allstar/allstar2.JPEG"
+            "original": "./Assets/work/allstar/allstar1.JPEG"
           },
           {
-            "src": "../Assets/work/allstar/allstar3.JPEG"
+            "original": "./Assets/work/allstar/allstar2.JPEG"
           },
           {
-            "src": "../Assets/work/allstar/allstar4.JPEG"
+            "original": "./Assets/work/allstar/allstar3.JPEG"
           },
           {
-            "src": "../Assets/work/allstar/allstar6.png"
+            "original": "./Assets/work/allstar/allstar4.JPEG"
           },
           {
-            "src": "../Assets/work/allstar/allstar7.png"
+            "original": "./Assets/work/allstar/allstar6.png"
           },
           {
-            "src": "../Assets/work/flexsense/flex1.png"
+            "original": "./Assets/work/allstar/allstar7.png"
           },
           {
-            "src": "../Assets/work/flexsense/flex2.JPEG"
+            "original": "./Assets/work/flexsense/flex1.png"
           },
           {
-            "src": "../Assets/work/flexsense/flex3.JPEG"
+            "original": "./Assets/work/flexsense/flex2.JPEG"
           },
           {
-            "src": "../Assets/work/flexsense/flex4.JPEG"
+            "original": "./Assets/work/flexsense/flex3.JPEG"
           },
           {
-            "src": "../Assets/work/flexsense/flex5.JPEG"
+            "original": "./Assets/work/flexsense/flex4.JPEG"
           },
           {
-            "src": "../Assets/work/flexsense/flex6.png"
+            "original": "./Assets/work/flexsense/flex5.JPEG"
           },
           {
-            "src": "../Assets/work/s1/s1.png"
+            "original": "./Assets/work/flexsense/flex6.png"
           },
           {
-            "src": "../Assets/work/s1/s2.png"
+            "original": "./Assets/work/s1/s1.png"
           },
           {
-            "src": "../Assets/work/s1/s3.png"
+            "original": "./Assets/work/s1/s2.png"
           },
           {
-            "src": "../Assets/work/s1/s4.png"
+            "original": "./Assets/work/s1/s3.png"
           },
           {
-            "src": "../Assets/work/digitalkey/d1.png"
+            "original": "./Assets/work/s1/s4.png"
           },
           {
-            "src": "../Assets/work/digitalkey/d2.png"
+            "original": "./Assets/work/digitalkey/d1.png"
           },
           {
-            "src": "../Assets/work/digitalkey/d3.png"
+            "original": "./Assets/work/digitalkey/d2.png"
           },
           {
-            "src": "../Assets/work/digitalkey/d4.png"
+            "original": "./Assets/work/digitalkey/d3.png"
+          },
+          {
+            "original": "./Assets/work/digitalkey/d4.png"
           }
         ]
       },
       {
         "title": "Flutter",
-        "image": "flutter.png",
-        "set": [
+        "images": [
           {
-            "src": "../Assets/work/enabler/en1.png"
+            "original": "../Assets/cover/flutter.png"
           },
           {
-            "src": "../Assets/work/enabler/en2.JPEG"
+            "original": "./Assets/work/enabler/en1.png"
           },
           {
-            "src": "../Assets/work/enabler/en3.JPEG"
+            "original": "./Assets/work/enabler/en2.JPEG"
           },
           {
-            "src": "../Assets/work/enabler/en4.JPEG"
+            "original": "./Assets/work/enabler/en3.JPEG"
           },
           {
-            "src": "../Assets/work/enabler/en5.png"
+            "original": "./Assets/work/enabler/en4.JPEG"
           },
           {
-            "src": "../Assets/work/enabler/en6.png"
+            "original": "./Assets/work/enabler/en5.png"
           },
           {
-            "src": "../Assets/work/encoder/f_nt1.png"
+            "original": "./Assets/work/enabler/en6.png"
           },
           {
-            "src": "../Assets/work/encoder/f_nt2.png"
+            "original": "./Assets/work/encoder/f_nt1.png"
           },
           {
-            "src": "../Assets/work/encoder/f_nt3.png"
+            "original": "./Assets/work/encoder/f_nt2.png"
           },
           {
-            "src": "../Assets/work/encoder/f_nt4.png"
+            "original": "./Assets/work/encoder/f_nt3.png"
           },
           {
-            "src": "../Assets/work/encoder/f_nt5.png"
+            "original": "./Assets/work/encoder/f_nt4.png"
           },
           {
-            "src": "../Assets/work/encoder/f_nt6.png"
+            "original": "./Assets/work/encoder/f_nt5.png"
           },
           {
-            "src": "../Assets/work/encoder/f_nt7.png"
+            "original": "./Assets/work/encoder/f_nt6.png"
+          },
+          {
+            "original": "./Assets/work/encoder/f_nt7.png"
           }
         ]
       },
       {
         "title": "Angular 5",
-        "image": "angular.png",
-        "set": [
+        "images": [
           {
-            "src": "../Assets/work/trustify/trus3.png"
+            "original": "../Assets/cover/angular.png"
           },
           {
-            "src": "../Assets/work/trustify/trus5.JPEG"
+            "original": "./Assets/work/trustify/trus3.png"
           },
           {
-            "src": "../Assets/work/trustify/trus6.JPEG"
+            "original": "./Assets/work/trustify/trus5.JPEG"
           },
           {
-            "src": "../Assets/work/trustify/trus1.JPEG"
+            "original": "./Assets/work/trustify/trus6.JPEG"
+          },
+          {
+            "original": "./Assets/work/trustify/trus1.JPEG"
           }
         ]
       },
       {
         "title": "C#",
-        "image": "c-sharp.png",
-        "set": [
+        "images": [
           {
-            "src": "../Assets/work/Csharp/c1.png"
+            "original": "../Assets/cover/c-sharp.png"
           },
           {
-            "src": "../Assets/work/Csharp/c2.png"
+            "original": "./Assets/work/Csharp/c1.png"
           },
           {
-            "src": "../Assets/work/Csharp/sw_imr_1.jpg"
+            "original": "./Assets/work/Csharp/c2.png"
           },
           {
-            "src": "../Assets/work/Csharp/sw_imr.jpg"
+            "original": "./Assets/work/Csharp/sw_imr_1.jpg"
+          },
+          {
+            "original": "./Assets/work/Csharp/sw_imr.jpg"
           }
         ]
       },
       {
         "title": "PHP",
-        "image": "php.png",
-        "set": [
+        "images": [
           {
-            "src": "../Assets/work/php/php_nt1.png"
+            "original": "../Assets/cover/php.png"
           },
           {
-            "src": "../Assets/work/php/php_nt2.png"
+            "original": "./Assets/work/php/php_nt1.png"
+          },
+          {
+            "original": "./Assets/work/php/php_nt2.png"
           }
         ]
       },
       {
         "title": "Vue.js",
-        "image": "vue.png",
-        "set": [
+        "images": [
           {
-            "src": "../Assets/work/vue/vue_w1.jpg"
+            "original": "../Assets/cover/vue.png"
           },
           {
-            "src": "../Assets/work/vue/vue_w2.jpg"
+            "original": "./Assets/work/vue/vue_w1.jpg"
           },
           {
-            "src": "../Assets/work/vue/vue_w3.jpg"
+            "original": "./Assets/work/vue/vue_w2.jpg"
+          },
+          {
+            "original": "./Assets/work/vue/vue_w3.jpg"
           }
         ]
       },
       {
         "title": "React.js",
-        "image": "react.png",
-        "set": [
+        "images": [
           {
-            "src": "../Assets/work/react/online1.png"
+            "original": "../Assets/cover/react.png"
           },
           {
-            "src": "../Assets/work/react/online2.png"
+            "original": "./Assets/work/react/online1.png"
+          },
+          {
+            "original": "./Assets/work/react/online2.png"
           }
         ]
       },
       {
         "title": "JS",
-        "image": "js.png",
-        "set": [
+        "images": [
           {
-            "src": "../Assets/work/js/js1.png"
+            "original": "../Assets/cover/js.png"
           },
           {
-            "src": "../Assets/work/js/js2.png"
+            "original": "./Assets/work/js/js1.png"
           },
           {
-            "src": "../Assets/work/js/js3.png"
+            "original": "./Assets/work/js/js2.png"
           },
           {
-            "src": "../Assets/work/js/js4.png"
+            "original": "./Assets/work/js/js3.png"
+          },
+          {
+            "original": "./Assets/work/js/js4.png"
           }
         ]
       },
       {
         "title": "User Interface",
-        "image": "ui.png",
-        "set": [
+        "images": [
           {
-            "src": "../Assets/work/ui/fig1.jpg"
+            "original": "../Assets/cover/ui.png"
           },
           {
-            "src": "../Assets/work/ui/fig2.jpg"
+            "original": "./Assets/work/ui/fig1.jpg"
+          },
+          {
+            "original": "./Assets/work/ui/fig2.jpg"
           }
         ]
       },
       {
         "title": "Design Thinking",
-        "image": "innovation.png",
-        "set": [
+        "images": [
           {
-            "src": "../Assets/work/innovation/inno1.JPG"
+            "original": "../Assets/cover/innovation.png"
           },
           {
-            "src": "../Assets/work/innovation/inno2.JPG"
+            "original": "./Assets/work/innovation/inno1.JPG"
           },
           {
-            "src": "../Assets/work/innovation/inno3.JPG"
+            "original": "./Assets/work/innovation/inno2.JPG"
+          },
+          {
+            "original": "./Assets/work/innovation/inno3.JPG"
           }
         ]
       },
       {
         "title": "Languages",
-        "image": "languages.png",
-        "set": [
+        "images": [
           {
-            "src": "../Assets/work/languages/lang1.JPEG"
+            "original": "../Assets/cover/languages.png"
           },
           {
-            "src": "../Assets/work/languages/lang2.jpg"
+            "original": "./Assets/work/languages/lang1.JPEG"
+          },
+          {
+            "original": "./Assets/work/languages/lang2.jpg"
           }
         ]
       }
