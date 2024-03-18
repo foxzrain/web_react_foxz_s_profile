@@ -159,91 +159,91 @@
         "title": "Android",
         "images": [
           {
-            "original": "android.png",
+            "original": "./android.png",
             "originalAlt": "android" 
           },
           {
-            "original": "allstar5.png",
+            "original": "./allstar5.png",
             "originalAlt": "1" 
           },
           {
-            "original": "allstar1.JPEG",
+            "original": "./allstar1.JPEG",
             "originalAlt": "2" 
           },
           {
-            "original": "allstar2.JPEG",
+            "original": "./allstar2.JPEG",
             "originalAlt": "3" 
           },
           {
-            "original": "allstar3.JPEG",
+            "original": "./allstar3.JPEG",
             "originalAlt": "4" 
           },
           {
-            "original": "allstar4.JPEG",
+            "original": "./allstar4.JPEG",
             "originalAlt": "5" 
           },
           {
-            "original": "allstar6.png",
+            "original": "./allstar6.png",
             "originalAlt": "6" 
           },
           {
-            "original": "allstar7.png",
+            "original": "./allstar7.png",
             "originalAlt": "7" 
           },
           {
-            "original": "flex1.png",
+            "original": "./flex1.png",
             "originalAlt": "8" 
           },
           {
-            "original": "flex2.JPEG",
+            "original": "./flex2.JPEG",
             "originalAlt": "9" 
           },
           {
-            "original": "flex3.JPEG",
+            "original": "./flex3.JPEG",
             "originalAlt": "10" 
           },
           {
-            "original": "flex4.JPEG",
+            "original": "./flex4.JPEG",
             "originalAlt": "11" 
           },
           {
-            "original": "flex5.JPEG",
+            "original": "./flex5.JPEG",
             "originalAlt": "12" 
           },
           {
-            "original": "flex6.png",
+            "original": "./flex6.png",
             "originalAlt": "13" 
           },
           {
-            "original": "s1.png",
+            "original": "./s1.png",
             "originalAlt": "14" 
           },
           {
-            "original": "s2.png",
+            "original": "./s2.png",
             "originalAlt": "15" 
           },
           {
-            "original": "s3.png",
+            "original": "./s3.png",
             "originalAlt": "16" 
           },
           {
-            "original": "s4.png",
+            "original": "./s4.png",
             "originalAlt": "17" 
           },
           {
-            "original": "d1.png",
+            "original": "./d1.png",
             "originalAlt": "18" 
           },
           {
-            "original": "d2.png",
+            "original": "./d2.png",
             "originalAlt": "19" 
           },
           {
-            "original": "d3.png",
+            "original": "./d3.png",
             "originalAlt": "20" 
           },
           {
-            "original": "d4.png",
+            "original": "./d4.png",
             "originalAlt": "21" 
           }
         ]
@@ -252,59 +252,59 @@
         "title": "Flutter",
         "images": [
           {
-            "original": "flutter.png",
+            "original": "./flutter.png",
             "originalAlt": "22" 
           },
           {
-            "original": "en1.png",
+            "original": "./en1.png",
             "originalAlt": "23" 
           },
           {
-            "original": "en2.JPEG",
+            "original": "./en2.JPEG",
             "originalAlt": "24" 
           },
           {
-            "original": "en3.JPEG",
+            "original": "./en3.JPEG",
             "originalAlt": "25" 
           },
           {
-            "original": "en4.JPEG",
+            "original": "./en4.JPEG",
             "originalAlt": "26" 
           },
           {
-            "original": "en5.png",
+            "original": "./en5.png",
             "originalAlt": "27" 
           },
           {
-            "original": "en6.png",
+            "original": "./en6.png",
             "originalAlt": "28" 
           },
           {
-            "original": "f_nt1.png",
+            "original": "./f_nt1.png",
             "originalAlt": "29" 
           },
           {
-            "original": "f_nt2.png",
+            "original": "./f_nt2.png",
             "originalAlt": "30" 
           },
           {
-            "original": "f_nt3.png",
+            "original": "./f_nt3.png",
             "originalAlt": "31" 
           },
           {
-            "original": "f_nt4.png",
+            "original": "./f_nt4.png",
             "originalAlt": "32" 
           },
           {
-            "original": "f_nt5.png",
+            "original": "./f_nt5.png",
             "originalAlt": "33" 
           },
           {
-            "original": "f_nt6.png",
+            "original": "./f_nt6.png",
             "originalAlt": "34" 
           },
           {
-            "original": "f_nt7.png",
+            "original": "./f_nt7.png",
             "originalAlt": "35" 
           }
         ]
@@ -313,23 +313,23 @@
         "title": "Angular 5",
         "images": [
           {
-            "original": "angular.png",
+            "original": "./angular.png",
             "originalAlt": "36" 
           },
           {
-            "original": "trus3.png",
+            "original": "./trus3.png",
             "originalAlt": "37" 
           },
           {
-            "original": "trus5.JPEG",
+            "original": "./trus5.JPEG",
             "originalAlt": "38" 
           },
           {
-            "original": "trus6.JPEG",
+            "original": "./trus6.JPEG",
             "originalAlt": "39" 
           },
           {
-            "original": "trus1.JPEG",
+            "original": "./trus1.JPEG",
             "originalAlt": "40" 
           }
         ]
@@ -338,23 +338,23 @@
         "title": "C#",
         "images": [
           {
-            "original": "c-sharp.png",
+            "original": "./c-sharp.png",
             "originalAlt": "41" 
           },
           {
-            "original": "c1.png",
+            "original": "./c1.png",
             "originalAlt": "42" 
           },
           {
-            "original": "c2.png",
+            "original": "./c2.png",
             "originalAlt": "43" 
           },
           {
-            "original": "sw_imr_1.jpg",
+            "original": "./sw_imr_1.jpg",
             "originalAlt": "44" 
           },
           {
-            "original": "sw_imr.jpg",
+            "original": "./sw_imr.jpg",
             "originalAlt": "45" 
           }
         ]
@@ -363,15 +363,15 @@
         "title": "PHP",
         "images": [
           {
-            "original": "php.png",
+            "original": "./php.png",
             "originalAlt": "46" 
           },
           {
-            "original": "php_nt1.png",
+            "original": "./php_nt1.png",
             "originalAlt": "47" 
           },
           {
-            "original": "php_nt2.png",
+            "original": "./php_nt2.png",
             "originalAlt": "48" 
           }
         ]
@@ -380,19 +380,19 @@
         "title": "Vue.js",
         "images": [
           {
-            "original": "vue.png",
+            "original": "./vue.png",
             "originalAlt": "49" 
           },
           {
-            "original": "vue_w1.jpg",
+            "original": "./vue_w1.jpg",
             "originalAlt": "50" 
           },
           {
-            "original": "vue_w2.jpg",
+            "original": "./vue_w2.jpg",
             "originalAlt": "51" 
           },
           {
-            "original": "vue_w3.jpg",
+            "original": "./vue_w3.jpg",
             "originalAlt": "52" 
           }
         ]
@@ -401,15 +401,15 @@
         "title": "React.js",
         "images": [
           {
-            "original": "react.png",
+            "original": "./react.png",
             "originalAlt": "53" 
           },
           {
-            "original": "online1.png",
+            "original": "./online1.png",
             "originalAlt": "54" 
           },
           {
-            "original": "online2.png",
+            "original": "./online2.png",
             "originalAlt": "55" 
           }
         ]
@@ -418,23 +418,23 @@
         "title": "JS",
         "images": [
           {
-            "original": "js.png",
+            "original": "./js.png",
             "originalAlt": "56" 
           },
           {
-            "original": "js1.png",
+            "original": "./js1.png",
             "originalAlt": "57" 
           },
           {
-            "original": "js2.png",
+            "original": "./js2.png",
             "originalAlt": "58" 
           },
           {
-            "original": "js3.png",
+            "original": "./js3.png",
             "originalAlt": "59" 
           },
           {
-            "original": "js4.png",
+            "original": "./js4.png",
             "originalAlt": "60" 
           }
         ]
@@ -443,15 +443,15 @@
         "title": "User Interface",
         "images": [
           {
-            "original": "ui.png",
+            "original": "./ui.png",
             "originalAlt": "61" 
           },
           {
-            "original": "fig1.jpg",
+            "original": "./fig1.jpg",
             "originalAlt": "62" 
           },
           {
-            "original": "fig2.jpg",
+            "original": "./fig2.jpg",
             "originalAlt": "63" 
           }
         ]
@@ -460,19 +460,19 @@
         "title": "Design Thinking",
         "images": [
           {
-            "original": "innovation.png",
+            "original": "./innovation.png",
             "originalAlt": "64" 
           },
           {
-            "original": "inno1.JPG",
+            "original": "./inno1.JPG",
             "originalAlt": "65" 
           },
           {
-            "original": "inno2.JPG",
+            "original": "./inno2.JPG",
             "originalAlt": "66" 
           },
           {
-            "original": "inno3.JPG",
+            "original": "./inno3.JPG",
             "originalAlt": "67" 
           }
         ]
@@ -481,15 +481,15 @@
         "title": "Languages",
         "images": [
           {
-            "original": "languages.png",
+            "original": "./languages.png",
             "originalAlt": "68" 
           },
           {
-            "original": "lang1.JPEG",
+            "original": "./lang1.JPEG",
             "originalAlt": "69" 
           },
           {
-            "original": "lang2.jpg",
+            "original": "./lang2.jpg",
             "originalAlt": "70" 
           }
         ]
