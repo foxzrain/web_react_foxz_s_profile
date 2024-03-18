@@ -16,7 +16,7 @@ class Header extends Component {
           </a>
           <a className="mobile-btn" href="#home" title="Hide navigation">
             Hide navigation
-            <img src="menu.png" alt="menu"/>
+            <img src="./menu.png" alt="hidemenu"/>
           </a>
 
           <ul id="nav" className="nav">
