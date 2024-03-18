@@ -12,7 +12,7 @@ class Header extends Component {
         <nav id="nav-wrap">
           <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
             Show navigation
-            <img src="%PUBLIC_URL%/menu.png" alt="menu"/>
+            <img src="./menu.png" alt="menu"/>
           </a>
           <a className="mobile-btn" href="#home" title="Hide navigation">
             Hide navigation
