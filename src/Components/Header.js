@@ -12,11 +12,11 @@ class Header extends Component {
         <nav id="nav-wrap">
           <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
             Show navigation
-            <img src="./Assets/icons/menu.png" alt="menu"/>
+            <img src="menu.png" alt="menu"/>
           </a>
           <a className="mobile-btn" href="#home" title="Hide navigation">
             Hide navigation
-            <img src="./Assets/icons/menu.png" alt="menu"/>
+            <img src="menu.png" alt="menu"/>
           </a>
 
           <ul id="nav" className="nav">
@@ -39,7 +39,7 @@ class Header extends Component {
             </li>
 
             <li>
-              <a className="smoothscroll" href="#portfolio">
+              <a className="smoothscroll" href="#on">
                 Portfolio
               </a>
             </li>
