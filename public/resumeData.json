@@ -159,70 +159,70 @@
         "title": "Android",
         "images": [
           {
-            "original": "../Assets/cover/android.png"
+            "original": "android.png"
           },
           {
-            "original": "./Assets/work/allstar/allstar5.png"
+            "original": "allstar5.png"
           },
           {
-            "original": "./Assets/work/allstar/allstar1.JPEG"
+            "original": "allstar1.JPEG"
           },
           {
-            "original": "./Assets/work/allstar/allstar2.JPEG"
+            "original": "allstar2.JPEG"
           },
           {
-            "original": "./Assets/work/allstar/allstar3.JPEG"
+            "original": "allstar3.JPEG"
           },
           {
-            "original": "./Assets/work/allstar/allstar4.JPEG"
+            "original": "allstar4.JPEG"
           },
           {
-            "original": "./Assets/work/allstar/allstar6.png"
+            "original": "allstar6.png"
           },
           {
-            "original": "./Assets/work/allstar/allstar7.png"
+            "original": "allstar7.png"
           },
           {
-            "original": "./Assets/work/flexsense/flex1.png"
+            "original": "flex1.png"
           },
           {
-            "original": "./Assets/work/flexsense/flex2.JPEG"
+            "original": "flex2.JPEG"
           },
           {
-            "original": "./Assets/work/flexsense/flex3.JPEG"
+            "original": "flex3.JPEG"
           },
           {
-            "original": "./Assets/work/flexsense/flex4.JPEG"
+            "original": "flex4.JPEG"
           },
           {
-            "original": "./Assets/work/flexsense/flex5.JPEG"
+            "original": "flex5.JPEG"
           },
           {
-            "original": "./Assets/work/flexsense/flex6.png"
+            "original": "flex6.png"
           },
           {
-            "original": "./Assets/work/s1/s1.png"
+            "original": "s1.png"
           },
           {
-            "original": "./Assets/work/s1/s2.png"
+            "original": "s2.png"
           },
           {
-            "original": "./Assets/work/s1/s3.png"
+            "original": "s3.png"
           },
           {
-            "original": "./Assets/work/s1/s4.png"
+            "original": "s4.png"
           },
           {
-            "original": "./Assets/work/digitalkey/d1.png"
+            "original": "d1.png"
           },
           {
-            "original": "./Assets/work/digitalkey/d2.png"
+            "original": "d2.png"
           },
           {
-            "original": "./Assets/work/digitalkey/d3.png"
+            "original": "d3.png"
           },
           {
-            "original": "./Assets/work/digitalkey/d4.png"
+            "original": "d4.png"
           }
         ]
       },
@@ -230,46 +230,46 @@
         "title": "Flutter",
         "images": [
           {
-            "original": "../Assets/cover/flutter.png"
+            "original": "flutter.png"
           },
           {
-            "original": "./Assets/work/enabler/en1.png"
+            "original": "en1.png"
           },
           {
-            "original": "./Assets/work/enabler/en2.JPEG"
+            "original": "en2.JPEG"
           },
           {
-            "original": "./Assets/work/enabler/en3.JPEG"
+            "original": "en3.JPEG"
           },
           {
-            "original": "./Assets/work/enabler/en4.JPEG"
+            "original": "en4.JPEG"
           },
           {
-            "original": "./Assets/work/enabler/en5.png"
+            "original": "en5.png"
           },
           {
-            "original": "./Assets/work/enabler/en6.png"
+            "original": "en6.png"
           },
           {
-            "original": "./Assets/work/encoder/f_nt1.png"
+            "original": "f_nt1.png"
           },
           {
-            "original": "./Assets/work/encoder/f_nt2.png"
+            "original": "f_nt2.png"
           },
           {
-            "original": "./Assets/work/encoder/f_nt3.png"
+            "original": "f_nt3.png"
           },
           {
-            "original": "./Assets/work/encoder/f_nt4.png"
+            "original": "f_nt4.png"
           },
           {
-            "original": "./Assets/work/encoder/f_nt5.png"
+            "original": "f_nt5.png"
           },
           {
-            "original": "./Assets/work/encoder/f_nt6.png"
+            "original": "f_nt6.png"
           },
           {
-            "original": "./Assets/work/encoder/f_nt7.png"
+            "original": "f_nt7.png"
           }
         ]
       },
@@ -277,19 +277,19 @@
         "title": "Angular 5",
         "images": [
           {
-            "original": "../Assets/cover/angular.png"
+            "original": "angular.png"
           },
           {
-            "original": "./Assets/work/trustify/trus3.png"
+            "original": "trus3.png"
           },
           {
-            "original": "./Assets/work/trustify/trus5.JPEG"
+            "original": "trus5.JPEG"
           },
           {
-            "original": "./Assets/work/trustify/trus6.JPEG"
+            "original": "trus6.JPEG"
           },
           {
-            "original": "./Assets/work/trustify/trus1.JPEG"
+            "original": "trus1.JPEG"
           }
         ]
       },
@@ -297,19 +297,19 @@
         "title": "C#",
         "images": [
           {
-            "original": "../Assets/cover/c-sharp.png"
+            "original": "c-sharp.png"
           },
           {
-            "original": "./Assets/work/Csharp/c1.png"
+            "original": "c1.png"
           },
           {
-            "original": "./Assets/work/Csharp/c2.png"
+            "original": "c2.png"
           },
           {
-            "original": "./Assets/work/Csharp/sw_imr_1.jpg"
+            "original": "sw_imr_1.jpg"
           },
           {
-            "original": "./Assets/work/Csharp/sw_imr.jpg"
+            "original": "sw_imr.jpg"
           }
         ]
       },
@@ -317,13 +317,13 @@
         "title": "PHP",
         "images": [
           {
-            "original": "../Assets/cover/php.png"
+            "original": "php.png"
           },
           {
-            "original": "./Assets/work/php/php_nt1.png"
+            "original": "php_nt1.png"
           },
           {
-            "original": "./Assets/work/php/php_nt2.png"
+            "original": "php_nt2.png"
           }
         ]
       },
@@ -331,16 +331,16 @@
         "title": "Vue.js",
         "images": [
           {
-            "original": "../Assets/cover/vue.png"
+            "original": "vue.png"
           },
           {
-            "original": "./Assets/work/vue/vue_w1.jpg"
+            "original": "vue_w1.jpg"
           },
           {
-            "original": "./Assets/work/vue/vue_w2.jpg"
+            "original": "vue_w2.jpg"
           },
           {
-            "original": "./Assets/work/vue/vue_w3.jpg"
+            "original": "vue_w3.jpg"
           }
         ]
       },
@@ -348,13 +348,13 @@
         "title": "React.js",
         "images": [
           {
-            "original": "../Assets/cover/react.png"
+            "original": "react.png"
           },
           {
-            "original": "./Assets/work/react/online1.png"
+            "original": "online1.png"
           },
           {
-            "original": "./Assets/work/react/online2.png"
+            "original": "online2.png"
           }
         ]
       },
@@ -362,19 +362,19 @@
         "title": "JS",
         "images": [
           {
-            "original": "../Assets/cover/js.png"
+            "original": "js.png"
           },
           {
-            "original": "./Assets/work/js/js1.png"
+            "original": "js1.png"
           },
           {
-            "original": "./Assets/work/js/js2.png"
+            "original": "js2.png"
           },
           {
-            "original": "./Assets/work/js/js3.png"
+            "original": "js3.png"
           },
           {
-            "original": "./Assets/work/js/js4.png"
+            "original": "js4.png"
           }
         ]
       },
@@ -382,13 +382,13 @@
         "title": "User Interface",
         "images": [
           {
-            "original": "../Assets/cover/ui.png"
+            "original": "ui.png"
           },
           {
-            "original": "./Assets/work/ui/fig1.jpg"
+            "original": "fig1.jpg"
           },
           {
-            "original": "./Assets/work/ui/fig2.jpg"
+            "original": "fig2.jpg"
           }
         ]
       },
@@ -396,16 +396,16 @@
         "title": "Design Thinking",
         "images": [
           {
-            "original": "../Assets/cover/innovation.png"
+            "original": "innovation.png"
           },
           {
-            "original": "./Assets/work/innovation/inno1.JPG"
+            "original": "inno1.JPG"
           },
           {
-            "original": "./Assets/work/innovation/inno2.JPG"
+            "original": "inno2.JPG"
           },
           {
-            "original": "./Assets/work/innovation/inno3.JPG"
+            "original": "inno3.JPG"
           }
         ]
       },
@@ -413,13 +413,13 @@
         "title": "Languages",
         "images": [
           {
-            "original": "../Assets/cover/languages.png"
+            "original": "languages.png"
           },
           {
-            "original": "./Assets/work/languages/lang1.JPEG"
+            "original": "lang1.JPEG"
           },
           {
-            "original": "./Assets/work/languages/lang2.jpg"
+            "original": "lang2.jpg"
           }
         ]
       }

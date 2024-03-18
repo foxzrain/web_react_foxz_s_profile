@@ -1,12 +1,13 @@
 import React, { Component } from "react";
 import Fade from "react-reveal";
 
+
 class About extends Component {
   render() {
     if (!this.props.data) return null;
 
     const name = this.props.data.name;
-    const profilepic = "./Assets/" + this.props.data.image;
+    const profilepic = this.props.data.image;
     const bio = this.props.data.bio;
     const city = this.props.data.address.city;
     const state = this.props.data.address.state;
